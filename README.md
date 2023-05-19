@@ -3,7 +3,7 @@
 
 Welcome to my YouTube Clone repository! This project is a feature-rich video-sharing platform developed using React, Material-UI (MUI), and integrated with the powerful RapidAPI service.
 
-# Features:-
+## Features:-
 Responsive Design: The YouTube Clone is built with React, ensuring a seamless experience across different devices and screen sizes.
 
 Material-UI Integration: The use of Material-UI provides a visually appealing and intuitive user interface, making navigation a breeze.
