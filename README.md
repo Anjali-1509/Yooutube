@@ -16,6 +16,16 @@ Immerse yourself in a user-friendly environment as you dive into a vast collecti
 
 Thanks to Material-UI's extensive library of pre-designed components, this YouTube Clone boasts a modern and polished design that is both visually appealing and user-friendly. Every detail, from the header to the footer, has been carefully crafted to provide a sleek and streamlined browsing experience for creators and viewers alike.
 
-Prepare to embark on the future of online video sharing with the stunning React MUI YouTube Clone, empowered by RapidAPI. Start exploring, engaging, and creating today!
+# Acknowledgements
+I would like to express my gratitude to the open-source community for their contributions, as well as the following resources that helped me build this YouTube Clone:
+
+React: https://reactjs.org/
+Material-UI: https://mui.com/
+RapidAPI: https://rapidapi.com/
+
+# Contact
+If you have any questions, suggestions, or feedback, feel free to reach out to us at anjalidelhi1509@gmail.com.
+
+Enjoy using my YouTube Clone and happy video sharing :)
 
 
