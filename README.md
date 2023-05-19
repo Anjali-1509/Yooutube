@@ -24,7 +24,7 @@ Material-UI: https://mui.com/
 RapidAPI: https://rapidapi.com/
 
 # Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to us at anjalidelhi1509@gmail.com.
+If you have any questions, suggestions, or feedback, feel free to reach out to me at anjalidelhi1509@gmail.com.
 
 Enjoy using my YouTube Clone and happy video sharing :)
 
